@@ -9,6 +9,7 @@
     "**/*(spec|test).ts",
     "**/*e2e-(spec|test).ts",
     "eslint.config.*",
-    "jest.config.*"
+    "jest.config.*",
+    "vitest.config.*"
   ]
 }
