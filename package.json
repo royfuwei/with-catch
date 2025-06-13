@@ -1,5 +1,5 @@
 {
-  "name": "ts-catch-handler",
+  "name": "catch-handler",
   "version": "0.0.0",
   "description": "A project created by starter-ts-lib",
   "main": "src/index.ts",
