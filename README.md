@@ -1,4 +1,4 @@
-ts-catch-handler
+with-catch
 ===
 
 This project is a `royfuwei/starter-ts-lib` template for creating a new project using the [start-ts-by](https://www.npmjs.com/package/start-ts-by) CLI.
